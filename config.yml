@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "/home"
 title: "Stackbit Azimuth Theme"
 init_js: "assets/js/init.js"
 page_load_js: "assets/js/main.js"
